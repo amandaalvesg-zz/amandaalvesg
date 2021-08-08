@@ -4,7 +4,11 @@ Oiii, sou Amanda Alves!!! 🥰
 - 📚 Estou iniciando os estudos em Front-End
 - 📫 Como chegar até mim: amanda-alves.g@hotmail.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaalvesg&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaalvesg&show_icons=true&theme=cobalt)
+
+
+
+
 
 
 
